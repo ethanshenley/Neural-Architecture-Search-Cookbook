@@ -49,20 +49,6 @@ Neural Architecture Search (NAS) represents the next frontier in deep learning, 
 - Dynamic trade-offs
 - Composite objectives
 
-## 📋 Prerequisites
-
-### Required Knowledge
-- Deep Learning Fundamentals
-- Python Programming
-- PyTorch Framework
-- Basic Optimization Concepts
-
-### Recommended Background
-- Computer Architecture
-- Deep Learning Deployment
-- Multi-Objective Optimization
-- Application-Specific ML
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
